@@ -49,3 +49,5 @@ The ERD diagram for the tables is shown below.
 <br>
 After creating the empty tables in postgress, we used Python-Pandas module and created connection through pandas to Postgress.  The column names for each table were changed to make sure they are identical to the column names in postgress-database tables. Then the pandas dataframe were used to load the data into the empty tables created in Postgress database. 
 
+<br>
+We ran queries to extract data from the different tables. The headshot of the tables have been added in the 'Output_data' folder.
